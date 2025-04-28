@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  display: flex;
+  justify-content: center;
+  padding: 11.6rem;
+}
+input {
+  border: 2px solid black;
+  border-radius: 12px 14px 12px 14px;
+  padding: 0.7rem;
+  margin-right: 0.4rem;
+  
+}
+ .bottom-text {
+  font-size: 0.6rem;
+  margin-left: 1.3rem;
+  color: red;
+  
+}
+row {
+  display: flex;
+
+}
+
